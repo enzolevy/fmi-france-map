@@ -3,7 +3,6 @@ import React from 'react';
 export default function ModeToggle({ mode, setMode }) {
   const modes = [
     { value: 'view', label: 'Consultation' },
-    { value: 'search', label: 'Recherche' },
     { value: 'edit', label: 'Édition' },
   ];
   return (

@@ -1,5 +1,22 @@
-[
-  { "id": "nicolas", "name": "Nicolas Franco", "color": "#3b82f6" },
-  { "id": "yannis", "name": "Yannis", "color": "#10b981" },
-  { "id": "laura", "name": "Laura", "color": "#f59e0b" }
-]
+{
+  "nicolas": {
+    "id": "nicolas",
+    "name": "Nicolas",
+    "color": "#f79f3b"
+  },
+  "yannis": {
+    "id": "yannis",
+    "name": "Yannis",
+    "color": "#10b981"
+  },
+  "ca_1756378491848": {
+    "id": "ca_1756378491848",
+    "name": "Yehuda",
+    "color": "#3ecff4"
+  },
+  "ca_1756378536690": {
+    "id": "ca_1756378536690",
+    "name": "Marco",
+    "color": "#d01616"
+  }
+}
